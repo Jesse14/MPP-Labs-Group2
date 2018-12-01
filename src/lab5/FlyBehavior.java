@@ -1,6 +1,5 @@
 package lab5;
 
-abstract class FlyBehavior implements IFlyBehavior {
-
-	 
+public interface FlyBehavior {
+	public void fly() ;
 }

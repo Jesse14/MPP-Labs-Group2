@@ -1,7 +1,5 @@
 package lab5;
 
-public abstract class QuackBehavior implements IQuackBehavior {
-
-	 
-
+public interface QuackBehavior {
+	void quack();
 }
