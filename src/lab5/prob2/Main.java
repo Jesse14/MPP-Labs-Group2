@@ -1,10 +1,10 @@
-package lab5_2;
+package lab5.prob2;
 
-import lab5.DecoyDuck;
-import lab5.Duck;
-import lab5.MallardDuck;
-import lab5.RedheadDuck;
-import lab5.RubberDuck;
+import lab5.prob1.DecoyDuck;
+import lab5.prob1.Duck;
+import lab5.prob1.MallardDuck;
+import lab5.prob1.RedheadDuck;
+import lab5.prob1.RubberDuck;
 
 public class Main {
 

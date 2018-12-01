@@ -1,6 +1,6 @@
-package lab5;
+package lab5.prob1;
 
-public class CannotFly extends FlyBehavior{
+public class CannotFly implements FlyBehavior{
 
 	@Override
 	public void fly() {

@@ -1,6 +1,6 @@
-package lab5;
+package lab5.prob1;
 
-public class Quack extends QuackBehavior{
+public class Quack implements QuackBehavior{
 
 	@Override
 	public void quack() {

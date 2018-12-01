@@ -1,14 +1,16 @@
-package lab5;
+package lab5.prob1;
 
-public class RedheadDuck extends Duck {
-	public RedheadDuck() {
+public class MallardDuck extends Duck {
+
+	public MallardDuck() {
 		this.setFlyBehavior(new FlyWithWings());
 		this.setQuackBehavior(new Quack());
 	}
+	
 	@Override
 	public void display() {
 		// TODO Auto-generated method stub
-		System.out.println("displaying");
+		System.out.println("display");
 	}
 
 }

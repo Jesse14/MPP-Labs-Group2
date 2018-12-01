@@ -1,4 +1,4 @@
-package lab5;
+package lab5.prob1;
 
 public class Main {
 
@@ -14,7 +14,7 @@ public class Main {
 			d.display();
 			d.fly();
 			d.quack();
-			d.swin();
+			d.swim();
 		}
 	}
 

@@ -1,4 +1,4 @@
-package lab5_2;
+package lab5.prob2;
 
 public final class  Rectangle implements IShape {
 	private double width;

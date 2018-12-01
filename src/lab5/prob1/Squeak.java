@@ -1,6 +1,6 @@
-package lab5;
+package lab5.prob1;
 
-public class Squeak extends QuackBehavior{
+public class Squeak implements QuackBehavior{
 
 	@Override
 	public void quack() {
